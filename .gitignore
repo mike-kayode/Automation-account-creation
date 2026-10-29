@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+database/*.db
+exports/*.csv
+report/*.csv
+screenshots/
+browser_profile/
+browser_profile.zip
+logs/

@@ -1,0 +1,7 @@
+playwright
+rich
+python-dotenv
+pydantic
+cryptography
+pytest
+pytest-asyncio
